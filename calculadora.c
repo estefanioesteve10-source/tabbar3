@@ -5,7 +5,7 @@ int main(void)
     float x, y;
     char operacao;
 
-    // Solicita o primeiro número
+    // Solicita o primeiro número da operação
     printf("Digite o primeiro número: ");
     scanf("%f", &x);
 
